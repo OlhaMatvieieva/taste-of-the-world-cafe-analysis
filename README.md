@@ -17,9 +17,13 @@ Understanding consumer preferences is essential for the restaurant business in o
 
 ## How I Found and Shared My Findings
 Data collection and cleaning involved working with order data and looking for duplicates and missing values.
+
 Order volume, average order value, and frequency of certain dishes and cuisine types were all studied in the key metric analysis.
+
 Data visualization: produced tables, graphs, and charts that clearly show trends. **In Progress**
+
 Conclusions and Suggestions: I developed business suggestions for menu and sales plan enhancements based on the results.
+
 
 ## Important Results
 American (hamburgers, cheeseburgers, and French fries) and Asian (edamame, Korean beef bowl) cuisines were the most popular, indicating a significant customer preference for these dishes.
