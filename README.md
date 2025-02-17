@@ -30,4 +30,4 @@ American (hamburgers, cheeseburgers, and French fries) and Asian (edamame, Korea
 Mexican food was the least popular, suggesting that there may be room to change the menu or introduce
 
 ## Outcome
-This effort helped identify the most profitable goods and development locations. The business received detailed recommendations on how to increase sales, reduce costs, and enhance the overall customer experience.
+This effort helped identify the most profitable goods and development locations.
